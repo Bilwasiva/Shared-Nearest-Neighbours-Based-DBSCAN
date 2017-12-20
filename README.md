@@ -1,1 +1,1 @@
-# Shared-Nearest-Neighbours-Based-DBSCAN-for-
+# Shared-Nearest-Neighbours-Based-DBSCAN
