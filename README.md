@@ -20,6 +20,7 @@ Implement given algorithm in Scheme programming language for clustering data poi
 6. Assign border points to clusters
 
 <h3>Input Format:</h3>
+
 Each input would be given in a file in the following format. First line would contain five space
 separated parameters as follows.
 * N D K ε MinPts
