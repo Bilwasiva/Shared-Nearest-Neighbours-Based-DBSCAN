@@ -22,8 +22,8 @@ Implement given algorithm in Scheme programming language for clustering data poi
 <h3>Input Format:</h3>
 Each input would be given in a file in the following format. First line would contain five space
 separated parameters as follows.
-N D K ε MinPts
-N = Number of points in the dataset
-D = Dimensions of each point
-K, ε, MinPts are parameters for the algorithm
-This is followed by N lines each representing a data point of D dimensions.
+* N D K ε MinPts
+* N = Number of points in the dataset
+* D = Dimensions of each point
+* K, ε, MinPts are parameters for the algorithm
+* This is followed by N lines each representing a data point of D dimensions.
